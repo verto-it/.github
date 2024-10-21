@@ -48,7 +48,7 @@ To get started with our open-source projects:
 
 ## 🤝 Contributing
 
-We welcome contributions from everyone! Whether it's fixing bugs, adding new features, or improving documentation, all types of help are appreciated. To get started, please read our [Contributing Guide](https://github.com/verto-it/contributing).
+We welcome contributions from everyone! Whether it's fixing bugs, adding new features, or improving documentation, all types of help are appreciated. To get started, please read our [Contributing Guide](https://github.com/verto-it/contributing/blob/main/README.md).
 
 ---
 
