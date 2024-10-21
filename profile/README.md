@@ -20,8 +20,8 @@ We believe in the power of open source! Many of our internal projects and tools 
 
 Some of our key open-source projects:
 
-- **[Servicefy] ([https://github.com/verto-it/servicefy](https://github.com/verto-it/servicefy])**: A Portable Application to install any .exe as a Windows Service
-- **[Multi VPN] ([https://github.com/verto-it/multivpn](https://github.com/verto-it/multivpn])**: A simple WINUI3 App to combine many VPN Applications into a single UI 
+- **[Servicefy] ([https://github.com/verto-it/servicefy](https://github.com/verto-it/servicefy)]**: A Portable Application to install any .exe as a Windows Service
+- **[Multi VPN] ([https://github.com/verto-it/multivpn](https://github.com/verto-it/multivpn)]**: A simple WINUI3 App to combine many VPN Applications into a single UI 
 
 We encourage developers and users to explore, use, and contribute to these projects. Have a look at our GitHub repositories for more!
 
