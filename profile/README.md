@@ -58,7 +58,7 @@ For commercial inquiries or support, please visit our website [Verto-It](https:/
 
 Follow us on social media for updates:
 
-- Twitter: [@VertoIt](https://twitter.com/vertoit)
+- Twitter / X: [@VertoIt](https://twitter.com/vertoit)
 - LinkedIn: [Verto-It](https://www.linkedin.com/company/verto-it)
 
 ---
