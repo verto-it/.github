@@ -54,7 +54,7 @@ We welcome contributions from everyone! Whether it's fixing bugs, adding new fea
 
 ## 📞 Contact Us
 
-For commercial inquiries or support, please visit our website [Verto-It](https://www.verto-it.de) or contact us via email at **info@verto-it.de**.
+For commercial inquiries or support, please visit our website [Verto-It](https://www.verto-it.com) or contact us via email at **info@verto-it.com**.
 
 Follow us on social media for updates:
 
