@@ -1,4 +1,4 @@
-# Verto-It <img src="https://www.verto-it.de/img/logo.png" alt="Verto-It Logo" width="100" align="right">
+# Verto-It <img src="https://www.verto-it.com/public/vertologo.png" alt="Verto-It Logo" width="100" align="right">
 
 **Verto-It** is a software development organization, specializing in both commercial and open-source projects. We are passionate about delivering top-quality software solutions to businesses and contributing to the open-source community. Whether you're a company looking for a custom solution or a developer interested in our open-source contributions, you've come to the right place!
 
